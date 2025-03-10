@@ -19,6 +19,15 @@ I specialize in **problem-solving, system optimization, and software scalability
 ---
 
 ## 🚀 Experience  
+### Experience Breakdown
+
+```mermaid
+pie
+    "Frontend Development (React, Next.js, TypeScript)": 35
+    "Backend Development (Python, FastAPI, Django, Flask)": 35
+    "Infrastructure & DevOps (AWS, Docker, Kubernetes, CI/CD)": 20
+    "CTO & Leadership (Architecture, Team Management)": 10
+```
 
 ### **Senior Frontend Developer** | Opna (Formerly SALT)  
 📅 10/2022 - Present | 🌍 Remote  
